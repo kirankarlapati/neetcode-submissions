@@ -109,4 +109,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
