@@ -93,6 +93,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/kirankarlapati/neetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/kirankarlapati/neetcode-submissions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
 |  |
 | ------- |
